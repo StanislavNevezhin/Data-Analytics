@@ -10,21 +10,19 @@
 </table>
 
 ## Оглавление
-[1. Описание проекта](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT_final#Описание-проекта)
+[1. Описание проекта](https://github.com/StanislavNevezhin/Data-Analytics/tree/main/PROJECT_final#Описание-проекта)
 
-[2. Какой кейс решаем?](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT_final#Какой-кейс-решаем)
+[2. Какой кейс решаем?](https://github.com/StanislavNevezhin/Data-Analytics/tree/main/PROJECT_final#Какой-кейс-решаем)
 
-[3. Краткая информация о данных](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT_final#Краткая-информация-о-данных)
+[3. Краткая информация о данных](https://github.com/StanislavNevezhin/Data-Analytics/tree/main/PROJECT_final#Краткая-информация-о-данных)
 
-[4. Этапы работы над проектом](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT_final#Этапы-работы-над-проектом)
+[4. Этапы работы над проектом](https://github.com/StanislavNevezhin/Data-Analytics/tree/main/PROJECT_final#Этапы-работы-над-проектом)
 
-[5. Результаты](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT_final#Результаты)
+[5. Результаты](https://github.com/StanislavNevezhin/Data-Analytics/tree/main/PROJECT_final#Результаты)
 
-  > Перейти прямо к [презентации решения кейса](https://github.com/yaroslav-vorobyov/SF_DST/blob/main/PROJECT_final/project/PROJECT.ipynb)
+  > Перейти прямо к [презентации решения кейса](https://github.com/StanislavNevezhin/Data-Analytics/tree/main/PROJECT_final/project)
 
-[6. Выводы](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT_final#Выводы)  
-
-[7. Фидбэк от ментора](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT_final#Фидбэк-от-ментора)
+[6. Выводы](https://github.com/StanislavNevezhin/Data-Analytics/tree/main/PROJECT_final#Выводы)  
 
 <br>
 
@@ -54,7 +52,7 @@
 
 5. Сформировать конфигурацию для успешного запуска в контейнере Docker и получения прогноза на заданную дату.
 
-:arrow_up:[к оглавлению](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT_final#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/StanislavNevezhin/Data-Analytics/tree/main/PROJECT_final#Оглавление)
 
 <br>
 
@@ -65,7 +63,6 @@
 
 <br>
 
-За каждое задание можно получить **от 1 до 5 баллов**.
 <!-- <table>
   <tbody>
     <tr style="vertical-align:middle">
@@ -89,8 +86,6 @@
 
 * Необходимо: ответить на контрольные вопросы, загрузить ноутбук-шаблон со своим решением на GitHub.
 
-**Максимальное количество баллов** за проект — 25.
-
 <br>
 
 **Что на практике:**
@@ -104,7 +99,7 @@
 -   Повышаю квалификацию по методам преобразования и очистки данных; 
 -   Повышаю квалификацию с GitHub.
 
-:arrow_up:[к оглавлению](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT_final#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/StanislavNevezhin/Data-Analytics/tree/main/PROJECT_final#Оглавление)
 
 <br>
 
@@ -118,7 +113,7 @@
 
 <br>
 
-:arrow_up:[к оглавлению](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT_final#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/StanislavNevezhin/Data-Analytics/tree/main/PROJECT_final#Оглавление)
 
 <br>
 
@@ -192,7 +187,7 @@
             
 
 
-:arrow_up:[к оглавлению](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT_final#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/StanislavNevezhin/Data-Analytics/tree/main/PROJECT_final#Оглавление)
 
 <br>
 
@@ -211,7 +206,7 @@
 
 ### Результаты:
 
-Проект c корректным выполнением кейса ["Финальный проект"](https://github.com/yaroslav-vorobyov/SF_DST/blob/main/PROJECT_final/project/PROJECT.ipynb).
+Проект c корректным выполнением кейса ["Финальный проект"](https://github.com/StanislavNevezhin/Data-Analytics/tree/main/PROJECT_final/project/PROJECT.ipynb).
 
 <br>
 
@@ -244,17 +239,6 @@
 
 <br>
 
-:arrow_up:[к оглавлению](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT_final#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/StanislavNevezhin/Data-Analytics/tree/main/PROJECT_final#Оглавление)
 
 <br>
-
-### Фидбэк от ментора
-* Фидбэк PROJECT_final.url - содержит ссылку на отзыв, файл находится на Google Drive ментора
-* Фидбэк PROJECT_final.pdf - версия отзыва с полным оформлением, если по ссылке файл будет удалён
-* Фидбэк PROJECT_final.txt - текстовая версия отзыва, если по ссылке файл будет удалён
-
-Перейти к [отзыву](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT_final/docs)
-
-<br>
-
-Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами.
